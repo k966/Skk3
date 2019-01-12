@@ -29,7 +29,7 @@ client.on("message", message => {
       .setColor("RANDOM")
       .addField("『Diamond Bot』 『اسم البوت』", true)
       
-      .addField("『@حـ♥̨̥̬̩سوني آإلعرآإقـ♥̨̥̬̩ي#7725』『مصمم البوت』", true)
+      .addField(" Server 9LAG ", true)
       
       .addField("『^help^』😘『اذا تبي جميع الاوامر مع اوامر اضافية』😵", true)
       
